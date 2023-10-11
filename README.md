@@ -3,7 +3,7 @@
 My name is **Ricardo** i am *21 years old* i am from **Peru**
 I am a student,I study **finance** 
 I have experence in sales and now I am doing a **bootcam** to be a *programer fullstack*
-I learn some comands from linux
+ *I learn some comands from linux
 | Comands | Description |
 | ------- | ----------- |
 |  cal    |  show a calendar |
@@ -12,7 +12,7 @@ I learn some comands from linux
 | date    | show the hour ,the day of the week and the month |
 |   pwd   | show where are you |
 
-*also learn some comands whit alias
+ *also learn some comands whit alias
 | Comands |  Dosciption |
 | ------- |  ---------- |
 | cl |  is the comand clear his funtion is clean the terminal |
