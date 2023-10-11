@@ -12,10 +12,11 @@ I learn some comands from linux
 | date    | show the hour ,the day of the week and the month |
 |   pwd   | show where are you |
 also learn some comands whit alias
-| Comonds | Alias | Dosciption |
-| ------- | ----- | ---------- |
-| clear   |  cl   | clean the terminal |
-| mvn use 18 | mvny | use the versian 18 of node js |
+| Comands |  Dosciption |
+| ------- |  ---------- |
+| cl |  is the comand clear his funtion is clean the terminal |
+| mvny | is the comand mvn use 18 his funtion is use the version 18 of node js |
+ 
 
 
 <!--
