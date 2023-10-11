@@ -11,7 +11,8 @@ I learn some comands from linux
 | whoiam  | show which is the profile |
 | date    | show the hour ,the day of the week and the month |
 |   pwd   | show where are you |
-also learn some comands whit alias
+
+*also learn some comands whit alias
 | Comands |  Dosciption |
 | ------- |  ---------- |
 | cl |  is the comand clear his funtion is clean the terminal |
