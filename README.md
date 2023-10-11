@@ -13,7 +13,7 @@ I have experence in sales and now I am doing a **bootcam** to be a *programer fu
 | date    | show the hour ,the day of the week and the month |
 |   pwd   | show where are you |
 
- *also learn some comands whit alias
+ *Also learn some comands whit alias
 | Comands |  Dosciption |
 | ------- |  ---------- |
 | cl |  is the comand clear his funtion is clean the terminal |
