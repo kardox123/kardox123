@@ -2,7 +2,8 @@
 ## I am kardox123
 My name is **Ricardo** i am *21 years old* i am from **Peru**
 I am a student,I study **finance** 
-I have experence in sales and now I am doing a **bootcam** to be a *programer fullstack*
+I have experence in sales and now I am doing a **bootcam** to be a *programer fullstack*\
+
  *I learn some comands from linux
 | Comands | Description |
 | ------- | ----------- |
