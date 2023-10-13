@@ -14,7 +14,7 @@ I have experence in sales and now I am doing a **bootcam** to be a *programer fu
 |   pwd   | show where are you |
 
  *Also learn some comands whit alias
-| Comands |  Dosciption |
+| Comands |  Description |
 | ------- |  ---------- |
 | cl |  is the comand clear his funtion is clean the terminal |
 | mvny | is the comand mvn use 18 his funtion is use the version 18 of node js |
